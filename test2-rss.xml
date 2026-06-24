@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sophos Blog (Eloqua Test Feed - Images)</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest posts from the Sophos Blog</description>
+
+    <item>
+      <title>GitHub internal repositories breached</title>
+      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
+      <description>A malicious VS Code extension led to cloned private repositories reportedly offered for sale on a criminal forum.</description>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <enclosure 
+        url="https://www.sophos.com/content/dam/sophos/en-us/news-releases/images/github-repo-breach.jpg" 
+        length="12345" 
+        type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>WantToCry ransomware remotely encrypts files</title>
+      <link>https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files</link>
+      <description>Brute-force attempts against SMB services can be early signs of a ransomware attack.</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <enclosure 
+        url="https://www.sophos.com/content/dam/sophos/en-us/news-releases/images/ransomware.jpg" 
+        length="12345" 
+        type="image/jpeg" />
+    </item>
+
+  </channel>
+</rss>
