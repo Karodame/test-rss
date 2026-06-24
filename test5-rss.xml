@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sophos Blog (Eloqua Test Feed - Images in Description)</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest posts from the Sophos Blog</description>
+
+    <item>
+      <title>GitHub internal repositories breached</title>
+      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
+      <description>
+        &lt;img src="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt3c43864574396ac5/6a0dd5cf03508a4aea088851/featured-github.jpg width="300" /&gt;
+        A malicious VS Code extension led to cloned private repositories reportedly offered for sale on a criminal forum.
+      </description>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>WantToCry ransomware remotely encrypts files</title>
+     <description>
+  &lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/960px-Felis_catus-cat_on_snow.jpg" width="300" /&gt;
+  A malicious VS Code extension led to cloned private repositories reportedly offered for sale on a criminal forum.
+</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
