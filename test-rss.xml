@@ -1,22 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sophos Blog (Eloqua Test Feed)</title>
+	  
+    <title>Sophos Blogs</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest blog posts and insights from Sophos</description>
+    <language>en-us</language>
+    <atom:link href="https://www.sophos.com/en-us/blog/feed" rel="self" type="application/rss+xml"/>
+    <title>Sophos Blog (Eloqua Test Feed - Images in Description)</title>
     <link>https://www.sophos.com/en-us/blog</link>
     <description>Latest posts from the Sophos Blog</description>
 
     <item>
-      <title>GitHub internal repositories breached</title>
-      <link>https://www.sophos.com/en-us/blog/github-internal-repositories-breached</link>
-      <description>A malicious VS Code extension led to cloned private repositories reportedly offered for sale on a criminal forum.</description>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+       <title>When AI agents look like attackers: what behavioral telemetry tells us</title>
+      <link>https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</link>
+      <description>
+		  &lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cyberduck_icon.png/960px-Cyberduck_icon.png" width="300" /&gt;
+		  An X-Ops analysis of how AI coding agents trigger endpoint detection rules designed for adversaries</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt2a1c28abb520bbdd</guid>
     </item>
 
-    <item>
-      <title>WantToCry ransomware remotely encrypts files</title>
-      <link>https://www.sophos.com/en-us/blog/wanttocry-ransomware-remotely-encrypts-files</link>
-      <description>Brute-force attempts against SMB services can be early signs of a ransomware attack.</description>
-      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+   <item>
+       <title>"Exploit mitigation" stalled around 2008. The attacks didn't.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-exploit-mitigation</link>
+      <description>AI turns a patched bug into a working exploit in hours. Why endpoint exploit mitigation stalled in 2008, and what a default-on mitigation layer looks like now.
+	   </description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt5c1e785aacc55db2</guid>
+		<media:content>https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb323ee50839a8576/6a4c3460099ffc1bf4efcc68/GettyImages-2156006301.jpg<media:content>
+    </item>
+	  
+	  
+	  <item>
+       <title>Vect and TeamPCP partner for ransomware campaigns</title>
+      <link>https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns</link>
+      <description>Credentials harvested through supply chain compromises enable large‑scale ransomware deployment
+		  </description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt7144245f1c9dec20</guid>
+		<media:content>https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cyberduck_icon.png/960px-Cyberduck_icon.png<media:content>
     </item>
 
   </channel>
