@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	  
     <title>Sophos Blogs</title>
@@ -19,7 +18,7 @@
 		  An X-Ops analysis of how AI coding agents trigger endpoint detection rules designed for adversaries</description>
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">blt2a1c28abb520bbdd</guid>
-		<media:content url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Seguridadenso.jpg" type="image/jpg" medium="image" />
+		
     </item>
 	  
 <item>
