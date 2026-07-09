@@ -44,10 +44,12 @@
   </description>
   <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 
-  <enclosure
-    url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cyberduck_icon.png/960px-Cyberduck_icon.png"
-    type="image/png"
-    length="0" />
+  
+<media:content
+      url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cyberduck_icon.png/960px-Cyberduck_icon.png"
+      medium="image"
+      type="image/png" />
+
 </item>
 
   </channel>
