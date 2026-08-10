@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	  
+    <title>Sophos Blogs</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest blog posts and insights from Sophos</description>
+    <language>en-us</language>
+    <atom:link href="https://www.sophos.com/en-us/blog/feed" rel="self" type="application/rss+xml"/>
+    <title>Sophos Blog (Eloqua Test Feed - Images in Description)</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest posts from the Sophos Blog</description>
+
+    <item>
+       <title>When AI agents look like attackers: what behavioral telemetry tells us</title>
+      <link>https://www.sophos.com/en-us/blog/2607_agents_vs_telemetry</link>
+      <description><![CDATA[
+		  An X-Ops analysis of how "AI coding" agents trigger endpoint detection rules designed for adversaries & whoever 
+					]]></description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt2a1c28abb520bbdd</guid>
+		
+    </item>
+	  
+<item>
+  <title>Exploit mitigation stalled around 2008. The attacks didn't.</title>
+  <link>https://www.sophos.com/en-us/blog/sophos-exploit-mitigation</link>
+  <description><![CDATA[
+    Research &amp; development teams analysed how &quot;AI agents&quot; behave. An attacker&apos;s behaviour doesn&apos;t always match expectations.
+				]]>
+  			</description>
+  <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+	<guid isPermaLink="false">blt5c1e785aacc55db2</guid>
+</item>
+	  
+	  
+	  <item>
+       <title>Vect and TeamPCP partner for ransomware campaigns</title>
+      <link>https://www.sophos.com/en-us/blog/vect-and-teampcp-partner-for-ransomware-campaigns</link>
+      <description>Credentials harvested through supply chain compromises enable large‑scale ransomware deployment
+		  </description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt7144245f1c9dec20</guid>
+    </item>
+
+  </channel>
+</rss>
