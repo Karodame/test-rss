@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophos Blogs</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest blog posts and insights from Sophos</description>
+    <language>en-us</language>
+    <atom:link href="https://www.sophos.com/en-us/blog/feed" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>ClickFix campaign abuses Deno runtime for infostealer delivery</title>
+      <link>https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</link>
+      <description><![CDATA[Lures on compromised WordPress sites led to installation of Deno and a Python-based infostealer]]></description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt6bbf200055e6738b</guid>
+    </item>
+
+    <item>
+      <title>Abuse of alternative runtime environments Deno-tes defender headaches</title>
+      <link>https://www.sophos.com/en-us/blog/deno-case-studies</link>
+      <description><![CDATA[Attack TTPs combine fileless execution, wide LOLBin use]]></description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt777603eae91a8bbe</guid>
+    </item>
+
+    <item>
+      <title>Sophos Working with OpenAI on security from AI, with AI, and for AI</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-working-with-openai</link>
+      <description><![CDATA[Sophos to bring OpenAI’s frontier models to the channel and managed service providers in newly announced partnership]]></description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt2ab81455454539cf</guid>
+    </item>
+
+    <item>
+      <title>Sophos DNS Protection update for GenAI</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-dns-genai</link>
+      <description><![CDATA[New Generative AI category is now available in DNS filtering policy and reporting.]]></description>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt04c30d540ec8877a</guid>
+    </item>
+
+    <item>
+      <title>Interlock ransomware gang creates volatile situation</title>
+      <link>https://www.sophos.com/en-us/blog/2608-volatility-interlock</link>
+      <description><![CDATA[Multiple legitimate DFIR tools abused by GOLD EMBRACE double-extortion specialists]]></description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">bltd513f6a34b1fd907</guid>
+    </item>
+
+    <item>
+      <title>N-able N-central exploitation results in RMM tool deployment</title>
+      <link>https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</link>
+      <description><![CDATA[After compromising systems via CVE-2026-18577, threat actors use the additional RMM tools and network tunnels to establish persistent remote access]]></description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt49c07708a02b55d4</guid>
+    </item>
+
+    <item>
+      <title>Three-headed dogs and long tails: Sophos at BSides LV</title>
+      <link>https://www.sophos.com/en-us/blog/three-headed-dogs-and-long-tails-sophos-at-bsides-lv</link>
+      <description><![CDATA[Data scientists from the Sophos AI team will present two research talks at BSides Las Vegas]]></description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt8dc8ad9acc5a9c8b</guid>
+    </item>
+
+    <item>
+      <title>When AI doesn’t know the target is real</title>
+      <link>https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real</link>
+      <description><![CDATA[The follow-up to the Hugging Face breach is a disclosure from Anthropic]]></description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt0492463f2a3ed7f4</guid>
+    </item>
+
+    <item>
+      <title>Secure by Design in practice: a year of progress on Sophos Firewall</title>
+      <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
+      <description><![CDATA[One year on from our last Secure by Design update, we’re changing the format: deeper, per-product updates. First up: the firewall.]]></description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">blt911f3945f0aa9f16</guid>
+    </item>
+  </channel>
+</rss>
