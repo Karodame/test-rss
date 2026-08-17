@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sophos Blog</title>
+    <link>https://www.sophos.com/en-us/blog</link>
+    <description>Latest blog posts from Sophos</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    <image>
+      <url>https://www.sophos.com/assets/images/logo.png</url>
+      <title>Sophos Blog</title>
+      <link>https://www.sophos.com/en-us/blog</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <atom:link href="https://www.sophos.com/en-us/blog/feed/v2" rel="self" type="application/rss+xml" />
+    <item>
+      <title>
+        <![CDATA[Abuse of alternative runtime environments Deno-tes defender headaches]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/deno-case-studies</link>
+      <description>
+        <![CDATA[Attack TTPs combine fileless execution, wide LOLBin use]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Wong Jun Qi, Krishna Priya Vijayakumar]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt8a01dc1cbd5e2b22/6a7b2724be3378524adad900/2608deno-case-studies-GettyImages-2212298856.jpg" length="3007901" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt777603eae91a8bbe</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt8a01dc1cbd5e2b22/6a7b2724be3378524adad900/2608deno-case-studies-GettyImages-2212298856.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt8a01dc1cbd5e2b22/6a7b2724be3378524adad900/2608deno-case-studies-GettyImages-2212298856.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>
+        <![CDATA[ClickFix campaign abuses Deno runtime for infostealer delivery]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/clickfix-campaign-abuses-deno-runtime-for-infostealer-delivery</link>
+      <description>
+        <![CDATA[Lures on compromised WordPress sites led to installation of Deno and a Python-based infostealer]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Sophos Counter Threat Unit Research Team]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[clickfix]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Deno]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[WordPress]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta68d2ca4e411b242/6a7a80cddcb43798222cfd7f/ClickFixDeno2608-hero-Getty2212298877.jpg" length="3032189" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt6bbf200055e6738b</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta68d2ca4e411b242/6a7a80cddcb43798222cfd7f/ClickFixDeno2608-hero-Getty2212298877.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta68d2ca4e411b242/6a7a80cddcb43798222cfd7f/ClickFixDeno2608-hero-Getty2212298877.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Sophos Working with OpenAI on security from AI, with AI, and for AI]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/sophos-working-with-openai</link>
+      <description>
+        <![CDATA[Sophos to bring OpenAI’s frontier models to the channel and managed service providers in newly announced partnership]]>
+      </description>
+      <dc:creator>
+        <![CDATA[John Peterson]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Products & Services]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[ChatGPT]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[artificial intelligence]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltbaf21fadb81cb222/6a79ce9bf124646bf36fe0dd/blogopenai-partnership_1200x628.png" length="1025922" type="image/png" />
+      <guid isPermaLink="false">en-us:blog:blt2ab81455454539cf</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltbaf21fadb81cb222/6a79ce9bf124646bf36fe0dd/blogopenai-partnership_1200x628.png" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltbaf21fadb81cb222/6a79ce9bf124646bf36fe0dd/blogopenai-partnership_1200x628.png" medium="image" type="image/png" />
+  
+    </item>
+    <item>
+      <title>
+        <![CDATA[Sophos DNS Protection update for GenAI]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/sophos-dns-genai</link>
+      <description>
+        <![CDATA[New Generative AI category is now available in DNS filtering policy and reporting.]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Chris McCormack]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Products & Services]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[network]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Workspace Protection]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdef0d8617785ba13/6a728d2a2888396bdd07c02e/ai-powered-protection.png" length="2644508" type="image/png" />
+      <guid isPermaLink="false">en-us:blog:blt04c30d540ec8877a</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdef0d8617785ba13/6a728d2a2888396bdd07c02e/ai-powered-protection.png" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdef0d8617785ba13/6a728d2a2888396bdd07c02e/ai-powered-protection.png" medium="image" type="image/png" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Interlock ransomware gang creates volatile situation]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/2608-volatility-interlock</link>
+      <description>
+        <![CDATA[Multiple legitimate DFIR tools abused by GOLD EMBRACE double-extortion specialists]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Sergio Bestulic, Andrew Bonwell, Karla Soler, Michael Warner]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt2d2668b3daa5dc59/6a6bab754e3795db6688dfc2/2608-volatility-interlock-GettyImages-1179506263.jpg" length="1038765" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:bltd513f6a34b1fd907</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt2d2668b3daa5dc59/6a6bab754e3795db6688dfc2/2608-volatility-interlock-GettyImages-1179506263.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt2d2668b3daa5dc59/6a6bab754e3795db6688dfc2/2608-volatility-interlock-GettyImages-1179506263.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[N-able N-central exploitation results in RMM tool deployment]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/nable-ncentral-exploitation-results-in-rmm-tool-deployment</link>
+      <description>
+        <![CDATA[After compromising systems via CVE-2026-18577, threat actors use the additional RMM tools and network tunnels to establish persistent remote access]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Sophos Counter Threat Unit Research Team]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[RMM]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[N-able]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[vulnerability]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt3292824ee7306637/6a727da9afd7db67095284a0/Nable2608-Getty1018805118.jpg" length="3717839" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt49c07708a02b55d4</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt3292824ee7306637/6a727da9afd7db67095284a0/Nable2608-Getty1018805118.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt3292824ee7306637/6a727da9afd7db67095284a0/Nable2608-Getty1018805118.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Three-headed dogs and long tails: Sophos at BSides LV]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/three-headed-dogs-and-long-tails-sophos-at-bsides-lv</link>
+      <description>
+        <![CDATA[Data scientists from the Sophos AI team will present two research talks at BSides Las Vegas]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Adarsh Kyadige, Ben Gelman]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[AI Research]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[BSidesLV]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt47d54553798fa763/6a6ca51517e9ee6ad2e3a640/three-headed-dog-2210332784.jpg" length="24766414" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt8dc8ad9acc5a9c8b</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt47d54553798fa763/6a6ca51517e9ee6ad2e3a640/three-headed-dog-2210332784.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt47d54553798fa763/6a6ca51517e9ee6ad2e3a640/three-headed-dog-2210332784.jpg" medium="image" type="image/jpeg" />
+        
+    </item>
+    <item>
+      <title>
+        <![CDATA[When AI doesn’t know the target is real]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real</link>
+      <description>
+        <![CDATA[The follow-up to the Hugging Face breach is a disclosure from Anthropic]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Ross McKerchar]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Security Operations]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Hugging Face]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Anthropic]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[OpenAI]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltfecc3f8d42be043b/6a6cfa48b61a53614931591f/AIrealtarget2607-Getty1831867559.jpg" length="9568876" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt0492463f2a3ed7f4</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltfecc3f8d42be043b/6a6cfa48b61a53614931591f/AIrealtarget2607-Getty1831867559.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltfecc3f8d42be043b/6a6cfa48b61a53614931591f/AIrealtarget2607-Getty1831867559.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Secure by Design in practice: a year of progress on Sophos Firewall]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/2607-sbd-update</link>
+      <description>
+        <![CDATA[One year on from our last Secure by Design update, we’re changing the format: deeper, per-product updates. First up: the firewall.]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Ross McKerchar]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Sophos SecOps]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Secure by Design]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Firewall]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt4005d2bfbbf6754e/6a68d8bc5f7657965f5267c8/2607-sbd-update-GettyImages-478690919.jpg" length="1048429" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt911f3945f0aa9f16</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt4005d2bfbbf6754e/6a68d8bc5f7657965f5267c8/2607-sbd-update-GettyImages-478690919.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt4005d2bfbbf6754e/6a68d8bc5f7657965f5267c8/2607-sbd-update-GettyImages-478690919.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Chaos in Teams vishing]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/chaos-in-teams-vishing</link>
+      <description>
+        <![CDATA[Attackers used Microsoft Teams vishing, custom malware, and remote access tools to facilitate ransomware deployment]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Morgan Demboski]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Microsoft Teams]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[vishing]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Ransomware]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Chaos]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt695189b068192faa/6a67fe3678b5fe5f9d8eee37/STAC4749Chaos-hero-Getty835733400.jpg" length="5931485" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:bltb4b25252cde8498c</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt695189b068192faa/6a67fe3678b5fe5f9d8eee37/STAC4749Chaos-hero-Getty835733400.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt695189b068192faa/6a67fe3678b5fe5f9d8eee37/STAC4749Chaos-hero-Getty835733400.jpg" medium="image" type="image/jpeg" />
+        
+    </item>
+    <item>
+      <title>
+        <![CDATA[Turn cybersecurity into a high-value business function with Sophos CISO Advantage]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ciso-advantage</link>
+      <description>
+        <![CDATA[An introduction to Sophos CISO Advantage, the new, differentiated way to align cybersecurity outcomes with business value — coming in October.]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Sophos]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Products & Services]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[CISO Advantage]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltaba93b8979397a40/6a67b94d8e0e246ba6716e55/sophos-partner-blog-icon-1600x960-CISO.png" length="1625128" type="image/png" />
+      <guid isPermaLink="false">en-us:blog:blt733fbb0a68449a1a</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltaba93b8979397a40/6a67b94d8e0e246ba6716e55/sophos-partner-blog-icon-1600x960-CISO.png" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltaba93b8979397a40/6a67b94d8e0e246ba6716e55/sophos-partner-blog-icon-1600x960-CISO.png" medium="image" type="image/png" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Why Sophos Has Become Its Own AI Test Lab]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/2607-secai</link>
+      <description>
+        <![CDATA[What that means for Customer Protections]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Ross McKerchar]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Threat Research]]>
+      </category>
+      <category domain="category">
+        <![CDATA[AI Research]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt66661bc1a5395692/6a60f90173635b7b0f0dc0b7/2607secai-GettyImages-1633588188.jpg" length="1978944" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:bltc33b6ab861d59b45</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt66661bc1a5395692/6a60f90173635b7b0f0dc0b7/2607secai-GettyImages-1633588188.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt66661bc1a5395692/6a60f90173635b7b0f0dc0b7/2607secai-GettyImages-1633588188.jpg" medium="image" type="image/jpeg" />
+        
+    </item>
+    <item>
+      <title>
+        <![CDATA[Introducing Sophos AI Defense]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/sophos-ai-defense</link>
+      <description>
+        <![CDATA[See AI. Control AI. Secure AI.]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Bud L. Ellis]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Products & Services]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Sophos AI Defense]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdb294ac5acdd437f/6a6897efaacc0d7ebe0b1032/AI_Defense_Dashboard.png" length="1014360" type="image/png" />
+      <guid isPermaLink="false">en-us:blog:bltf9f60b2e64622633</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdb294ac5acdd437f/6a6897efaacc0d7ebe0b1032/AI_Defense_Dashboard.png" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltdb294ac5acdd437f/6a6897efaacc0d7ebe0b1032/AI_Defense_Dashboard.png" medium="image" type="image/png" />
+        
+    </item>
+    <item>
+      <title>
+        <![CDATA[When the "attacker" is an AI agent]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/when-the-attacker-is-an-ai-agent</link>
+      <description>
+        <![CDATA[Lessons from the OpenAI-Hugging Face breach]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Ross McKerchar]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Security Operations]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[AI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[OpenAI]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[Hugging Face]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta9bb981cfbdf72fd/6a62880924c6ff3a3e1d247a/HuggingFace2607-Getty1060244082.jpg" length="17876877" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt3046a6f07d0cf234</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta9bb981cfbdf72fd/6a62880924c6ff3a3e1d247a/HuggingFace2607-Getty1060244082.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta9bb981cfbdf72fd/6a62880924c6ff3a3e1d247a/HuggingFace2607-Getty1060244082.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+    <item>
+      <title>
+        <![CDATA[Sophos Named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026]]>
+      </title>
+      <link>https://www.sophos.com/en-us/blog/sophos-idc-marketscape-mdr</link>
+      <description>
+        <![CDATA[Sophos has been named a Leader in the IDC MarketScape for Worldwide Managed Detection and Response Services for Midmarket 2026, recognizing our intelligence-led MDR, flexible engagement models, and open platform approach.]]>
+      </description>
+      <dc:creator>
+        <![CDATA[Sophos]]>
+      </dc:creator>
+      <category domain="category">
+        <![CDATA[Products & Services]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[MDR]]>
+      </category>
+      <category domain="tag">
+        <![CDATA[IDC]]>
+      </category>
+      <enclosure url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt1956afd0907e5056/6a5f9a586a9e26a1af89775c/GettyImages-1458616052.jpg" length="142380" type="image/jpeg" />
+      <guid isPermaLink="false">en-us:blog:blt88cf0b4d9251470f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt1956afd0907e5056/6a5f9a586a9e26a1af89775c/GettyImages-1458616052.jpg" />
+      <media:content url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt1956afd0907e5056/6a5f9a586a9e26a1af89775c/GettyImages-1458616052.jpg" medium="image" type="image/jpeg" />
+       
+    </item>
+  </channel>
+</rss>
